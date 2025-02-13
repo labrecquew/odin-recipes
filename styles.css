@@ -20,3 +20,10 @@ ol,
 li {
     text-align: left;
 }
+
+.recipe {
+    background-color: #FFCB52;
+    margin: 16px auto;
+    padding: 16px;
+    width: 600px;
+}
